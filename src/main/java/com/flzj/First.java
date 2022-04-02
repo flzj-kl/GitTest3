@@ -7,5 +7,6 @@ public class First {
         System.out.println("12121212");
         System.out.println("hot-fix");
         System.out.println("push_test");
+        System.out.println("pull_test");
     }
 }
